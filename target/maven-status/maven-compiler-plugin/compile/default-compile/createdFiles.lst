@@ -1,0 +1,9 @@
+com\group\Abbassi_WA\repositories\PersonneRepository.class
+com\group\Abbassi_WA\configuration\SwaggerConfig.class
+com\group\Abbassi_WA\services\impl\PersonneServiceImpl.class
+com\group\Abbassi_WA\AbbassiWaApplication.class
+com\group\Abbassi_WA\controllers\PersonneController.class
+com\group\Abbassi_WA\services\PersonneService.class
+com\group\Abbassi_WA\DTO\PersonneDTO.class
+com\group\Abbassi_WA\entities\Personne.class
+com\group\Abbassi_WA\Util\PersonneRegistrationException.class
